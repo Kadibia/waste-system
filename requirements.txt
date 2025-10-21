@@ -1,0 +1,32 @@
+dill
+from-root
+notebook
+gdown
+flask-cors
+flask
+
+#YOLO requirements
+matplotlib
+numpy
+opencv-python 
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+
+#Logging 
+tensorboard
+
+#Plotting
+pandas
+seaborn
+
+#Extras
+ipython 
+psutil
+thop
+
+-e . 
